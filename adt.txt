@@ -1,3 +1,0 @@
-pip install git+https://github.com/ChatMol/gromacs_copilot.git
-conda install -c conda-forge acpype # for protein-ligand complex
-conda install -c conda-forge gmx_mmpbsa # for MM-PBSA/GBSA analysis
